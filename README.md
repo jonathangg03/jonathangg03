@@ -12,7 +12,9 @@
 
 <br />
 
+<p>
 Mi nombre es Jonathan García, soy desarrollador web y backend, especializado en la cracion de aplicaciones con el stack MERN. Me apasiona crear y me encanta la tecnología, por eso me desenvolví en el área de la programación, donde he creado varios proyectos, que puedes encontrar visitando mi sitio web [dav-dev.com](https://dav-dev.com/).
+ </p>
 
 <h3>Habilidades y conocimientos</h3>
 <p>
