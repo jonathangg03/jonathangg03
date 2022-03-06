@@ -33,8 +33,8 @@ Mi nombre es Jonathan García, soy desarrollador web y backend, especializado en
 </br>
 
 <h3>Mis principales proyectos</h3>
-<a href='https://www.miriio.vercel.app'>
-  <img src="https://dav-dev.com/assets/projects/miriio.jpg" width="400" height="320" />
+<a href='https://miriio.vercel.app/'>
+  <img src="https://dav-dev.com/assets/projects/miriio.jpg" width="400" height="400" />
 </a>
 
 
