@@ -37,10 +37,17 @@ Mi nombre es Jonathan García, soy desarrollador web y backend, especializado en
   <img src="https://dav-dev.com/assets/projects/miriio.jpg" width="450" height="250" />
 </a>
 
+<a href='https://github.com/jonathan-cursos/megabyte_chat'>
+  <img src="https://dav-dev.com/assets/projects/chat.jpg" width="450" height="250" />
+</a>
 
+<a href='https://github.com/jonathangg03/davdev-gallery-nextui'>
+  <img src="https://dav-dev.com/assets/projects/gallery.jpg" width="450" height="250" />
+</a>
 
-
-
+<a href='https://github.com/jonathan-cursos/authenticate_app_frontend'>
+  <img src="https://dav-dev.com/assets/projects/authenticate.jpg" width="450" height="250" />
+</a>
 
 <!--
 **jonathangg03/jonathangg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
