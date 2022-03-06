@@ -30,6 +30,16 @@ Mi nombre es Jonathan García, soy desarrollador web y backend, especializado en
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+</br>
+
+<h3>Mis principales proyectos</h3>
+<a href='miriio.vercel.app'>
+  <img src="https://dav-dev.com/assets/projects/miriio.jpg" width="500" height="320" />
+</a>
+
+
+
+
 
 
 <!--
